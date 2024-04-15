@@ -1,0 +1,47 @@
+dataset: 'SDD'
+gpu_index: 0
+w_coarse: 1
+w_kld: 0.5
+w_adl: 0.5
+learning_rate: 0.0001
+num_epochs: 200
+num_workers: 0
+past_length: 8
+future_length: 12
+fps: 2.5
+ped_fov_r: 128
+ped_r: 5
+angle_interval: 9
+mag_intertval: 5
+mag_split: 5
+sample_N: 20
+lstm_input_size: 4
+lstm_embedding_size: 64
+lstm_hidden_size: 256
+lstm_output_size: 2
+cvae_enc_emap_size:
+- 1024
+- 512
+- 256
+cvae_enc_past_size:
+- 512
+- 256
+cvae_enc_bias_size:
+- 8
+- 16
+cvae_enc_latent_size:
+- 8
+- 50
+cvae_dec_size:
+- 1024
+- 512
+- 1024
+cvae_fdim: 16
+cvae_mu: 0
+cvae_n_values: 20
+cvae_sigma: 1.0
+cvae_zdim: 16
+
+
+
+

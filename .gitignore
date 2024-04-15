@@ -1,0 +1,8 @@
+saved_models/
+logs/
+__pycache__/
+venv/
+.idea/
+*.gv
+*.pdf
+output/
