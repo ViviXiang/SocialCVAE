@@ -10,7 +10,7 @@ Pytorch 1.12.0
 
 ## Dataset preparation
 Please download the processed data from 
-[Baidu Yun](https://pan.baidu.com/s/1H19JCh4uQAbOsmSGrk0iKw?pwd=sc24) or [Google drive](https://drive.google.com/file/d/1razsS-UsrHw-2v6ZR-tAGui4bkjMv2pK/view?usp=drive_link).
+[Baidu Yun](https://pan.baidu.com/s/1H19JCh4uQAbOsmSGrk0iKw?pwd=sc24) or [Google drive](https://drive.google.com/file/d/1razsS-UsrHw-2v6ZR-tAGui4bkjMv2pK/view?usp=sharing).
 
 Place the unzipped data into `./data/SDD/`
 
